@@ -4,9 +4,13 @@
 
 Estudos iniciais de Java desenvolvidos durante o segundo ano do ensino técnico da ETEC
 
-## 🛠️ Como executar o programa
+## 🛠️ Como executar o programa 
 
-- Passo 1: Utilizando a <a href = "https://www.jetbrains.com/pt-br/idea/">IDE do Intellij,</a> clique em **"Setup SDK"**
+- Passo 1: Baixe o ZIP do projeto ***(escolha a versão em "Releases" ou apenas clique em "Code")*** e descompacte a pasta
+<img src = "img/Passo0_1.jpg">
+<img src = "img/Passo0_2.jpg">
+
+- Passo 2: Abra o projeto utilizando a <a href = "https://www.jetbrains.com/pt-br/idea/">IDE do Intellij</a> e clique em **"Setup SDK"**
 <img src = "img/Passo1.jpg">
 
 - Passo 3: Clique em **"Download JDK"**
@@ -15,7 +19,7 @@ Estudos iniciais de Java desenvolvidos durante o segundo ano do ensino técnico 
 - Passo 4: Instale a versão mais recente (ou, em caso de problemas, ***instale a versão demonstrada na imagem***)
 <img src = "img/Passo3.jpg">
 
-- Passo 5: Após a instalação, procure a classe principal e execute o programa
+- Passo 5: Após a instalação, procure a classe principal ***(Exercícios)*** e execute o programa
 <img src = "img/Passo4.jpg">
 
 ## 💻 Tecnologias Utilizadas
